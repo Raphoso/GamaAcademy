@@ -5,10 +5,16 @@ body{
 }
 
 .align-right {
-    display: : flex;
+    display:flex;
     justify-content:flex-end;
 }
 
 .align-right button {
     margin-top: 15px;
-    }
+}
+
+
+.defaultMaginTop {
+    margin-top: 20px;
+    
+}
